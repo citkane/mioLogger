@@ -1,0 +1,22 @@
+{
+  "name": "@mio-core/miologger",
+  "version": "0.0.0",
+  "description": "Logging utilities for mio microservice architecture ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citkane/mioLogger.git"
+  },
+  "author": "Michael Jonker",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/citkane/mioLogger/issues"
+  },
+  "homepage": "https://github.com/citkane/mioLogger#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
